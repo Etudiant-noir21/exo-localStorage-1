@@ -1,0 +1,27 @@
+body {
+    background-color: #f5f5f5;
+    color: #333333;
+    height: 100vh;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* .texte{
+    font-size: 22px; 
+} */
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+.small {
+    font-size: small;
+}
+.medium {
+    font-size: 22px;
+}
+.large {
+    font-size: 28px;
+}
